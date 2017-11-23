@@ -4,3 +4,10 @@ var mission = "Our mission is to bestow prominent services at all times and assu
 
 var vision = "Our vision is to endow the students the opportunity to explore their talents to the maximum. We envision ourselves to assist our students in elevating their confidence and enriching their personality.";
 
+var batches = {
+    "REGULAR BATCHES": "These include teaching Social Dancing (Salsa, Jive, Bachata, ChaCha) & other styles (Bollywood, HipHop, Contemporary, JazzFunk). One form is picked from each (Social & Western) and the unique pattern is taught through the entlre duration. This is further divided into Basic, Intermediate & Advance levels.",
+    "LADIES & KIDS BATCHES": "This one is specially designed for the ladies who wish to get fit, learn to dance and add grace & rhythm to their body. Kids upto 14 years of age begin, learn and polish their skills from the very basic. Stretching, flexibility and strength is the main focus, common to both these programs.",
+    "SPECIAL PRO BATCHES": "This extensive program trains professional dancers further helping them excel in most of the forms. Building the very core, stamlna and majoring in the technique & skill are the only focus. It is a rigorous program wherein the best of the professionals explore a lot more about themselves. It contributes In improving the body rhythm and the ability to choreograph.",
+    "INTENSE SWEAT PROGRAM": "For all those who wish to dance for fitness and workouts, this program ensures stamina building, weight loss, strength building and fitness through dancing. It revolves around functional training and T DA specific prog- ram called 'Bollyfit'.",
+    "DANCE & FITNESS WORKSHOPS": "We have our tie ups with various schools, colleges, gymkhanas, clubs, acting & drama schools as well. It acts as a stress buster, to some, fitness regime to a few and pure technique and skill training for the rest."
+};

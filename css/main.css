@@ -702,6 +702,7 @@ ul.external {
 
 .fancybox-title.fancybox-title-inside-wrap {
     padding: 15px;
+    display: none;
 }
 
 .fancybox-title h3 {

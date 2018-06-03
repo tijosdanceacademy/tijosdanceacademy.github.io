@@ -86,6 +86,8 @@ $(document).ready(function(){
     $('.vision').text(vision);
     $('.mission').text(mission);
 
+    $('.navbar-nav li').click(function () { $('.navbar-toggle').click() });
+
     $.each(batches, function (key, value) {
         $('#offerings .row').append('<div class="col-md-6 col-sm-6 col-xs-12 wow animated zoomIn"><div class="service-item"><h3 class="text-center">' + key + '</h3><p>' + value + '</p></div></div>');
     });
